@@ -4,7 +4,7 @@
 
 **Product Engineer.** I build across the stack with AI: apps, infrastructure, and AI systems. I learn tools fast, ship end to end, and like turning ambiguous problems into working software other people can own.
 
-Currently a Web Developer at **Atonom** (an AI-agent startup) and finishing a **Master of Information Systems Management** at BYU (GPA 3.92, math minor).
+Currently a Web Developer at **Atonom** (an AI-agent startup) and have a **Master of Information Systems Management** at BYU (GPA 3.92, math minor).
 
 ### What I build
 
