@@ -3,7 +3,7 @@
 
 # Hi, I'm Isaac Limb 👋
 
-**Full-Stack Software Engineer** in Vineyard, UT. I work as a Web Developer at **Atonom** in Provo, UT. I build across the stack: apps, infrastructure, and AI systems.
+**Full-Stack Software Engineer** at **Atonom**, based in Utah. I work across the stack: apps, infrastructure, and AI systems.
 
 I have a **Master of Information Systems Management** from BYU (GPA 3.92, math minor).
 
