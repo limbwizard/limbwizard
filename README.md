@@ -13,7 +13,7 @@ Most of my open-source work lives in **[The Wizard's Ecosystem](https://github.c
 
 | Project | What it is | Release |
 | --- | --- | --- |
-| [**The Wizard's Lyre**](https://github.com/wizards-ecosystem/wizards-lyre) | A local, human-guided generative music studio powered by ACE-Step 1.5. | [0.2.0](https://github.com/wizards-ecosystem/wizards-lyre/releases/tag/v0.2.0) · MIT |
+| [**The Wizard's Lyre**](https://github.com/wizards-ecosystem/wizards-lyre) | A generative music studio powered by ACE-Step 1.5, with local generation and an opt-in remote GPU lane. | [0.2.0](https://github.com/wizards-ecosystem/wizards-lyre/releases/tag/v0.2.0) · MIT |
 | [**The Wizard's Brush**](https://github.com/wizards-ecosystem/wizards-brush) | A local-first atelier for generative images and video. | [0.1.7](https://github.com/wizards-ecosystem/wizards-brush/releases/tag/v0.1.7) · Apache-2.0 |
 | [**The Wizard's Pick**](https://github.com/wizards-ecosystem/wizards-pick) | A terminal assistant for authorized security testing, with local inference by default. | [0.2.0](https://github.com/wizards-ecosystem/wizards-pick/releases/tag/v0.2.0) · MIT |
 | [**The Wizard's Familiar**](https://github.com/wizards-ecosystem/wizards-familiar) | A coding agent that runs entirely on your machine. One file, no dependencies, no cloud. | [0.1.0](https://github.com/wizards-ecosystem/wizards-familiar/releases/tag/v0.1.0) · MIT |
@@ -24,9 +24,9 @@ A few more are still private while I build them. **Wizzy** (The Wizard's Ink) is
 
 ## Other things I've built
 
-- **Bella.** A self-improving personal AI assistant on the Claude API: a 48-tool agent loop, hybrid-retrieval memory, real-time voice, and a loop that reviews its own weak conversations and opens PRs to fix its own code. A different model judges them, and I approve every merge.
+- **[Bella](https://isaaclimb.com/projects/bella.html).** A personal AI assistant with local storage and retrieval, scoped tools, and real-time voice. Claude handles conversation by default; selected prompt context goes to the hosted provider. Local Ollama handles bounded utility work. Streaming speech recognition uses Parakeet, with a batch Whisper fallback; speech output supports hosted voices and local Kokoro.
 - **limbserver.** A 47-service self-hosted platform with SSO, encrypted secrets, immutable backups, and observability. I hardened it with a 30-subagent LLM-driven penetration test that found and fixed a CVSS 9.3 vulnerability.
-- **Hearthvale.** A 2D settlement-sim game in Godot/C#: 517 commits, ~48k lines, tests and CI, shipped solo in about four weeks.
+- **[Smoke Rising](https://isaaclimb.com/projects/smoke-rising.html).** An offline, single-player settlement simulation in Godot/C#, playable from source. Commercial release acceptance is still open.
 
 ## Tech I reach for
 
