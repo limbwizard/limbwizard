@@ -1,6 +1,6 @@
 # Isaac Limb
 
-Full-stack software engineer at **Atonom**, based in Utah. I build Rust systems, local-first AI tools, and applications. My GitHub username is **limbwizard**; most of my public code lives in **[The Wizard's Ecosystem](https://github.com/wizards-ecosystem)**.
+Full-stack software engineer at **Atonom**, based in Utah. I build Rust systems, local-first AI tools, and applications. most of my public code lives in **[The Wizard's Ecosystem](https://github.com/wizards-ecosystem)**.
 
 [Portfolio](https://isaaclimb.com/) · [LinkedIn](https://www.linkedin.com/in/isaac-limb/) · [Email](mailto:isaacdalelimb@gmail.com)
 
